@@ -78,3 +78,34 @@ To automatically install the Argyll-specific driver that is needed to use some i
 
 [https://displaycal.net/#install-windows-driver](https://displaycal.net/#install-windows-driver)
 
+
+## 紧固件
+
+### 面板
+
+原方案：M3x5+3铜柱
+
+问题：3mm螺纹还是可能怼到背光板SECTION A-A B-B
+
+尼龙/304不锈钢螺丝
+
+### VESA支架
+
+NB F100A支架 固定显示器是M4*12MM M5*12MM 两种
+
+还是最好从外侧上螺丝，不然难拿下来，所以要知道F100A金属板厚度
+
+螺丝用304不锈钢的，尼龙强度不知道够不够
+
+### 驱动板
+
+M3 1.5mm厚
+
+参数见Datasheet
+
+### 按键板
+
+M3 1.5mm厚
+
+91mm间距
+
